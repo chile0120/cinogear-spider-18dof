@@ -25,12 +25,6 @@ CinoGear Spider 18DOF is the first public robot product in the CinoGear lineup. 
 ### Head / Front Detail
 ![Head close-up](media/preview/02_head_closeup_photo.jpg)
 
-### Square Preview
-![Square robot preview](media/preview/03_square_robot_preview.jpg)
-
-### Wide Hero Preview
-![Wide hero preview](media/preview/04_wide_hero_preview.jpg)
-
 ## Repository Structure
 
 - `firmware/` main controller source, supporting firmware files, and controller library references
