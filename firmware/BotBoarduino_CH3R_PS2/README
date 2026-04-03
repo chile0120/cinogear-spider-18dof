@@ -1,0 +1,13 @@
+CinoGear source packaging note
+
+This folder keeps the legacy BotBoarduino_CH3R_PS2 sketch name for Arduino compatibility.
+Install the PS2X library from ../PS2X_Library/PS2X_lib into your Arduino libraries folder
+before compiling.
+
+Upstream compatibility references:
+- SSC-32 / SSC-32U command set
+- BotBoarduino-compatible Arduino workflow
+- PS2X library by Bill Porter / contributors
+
+See ../docs/THIRD_PARTY_REFERENCES.md and ../docs/COMMERCIAL_RELEASE_NOTES.md
+before publishing commercially.
